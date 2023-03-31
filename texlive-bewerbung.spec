@@ -1,6 +1,6 @@
 Name:		texlive-bewerbung
 Version:	61632
-Release:	1
+Release:	2
 Summary:	Typesetting job applications
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bewerbung
